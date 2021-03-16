@@ -18,6 +18,9 @@ return the equivalent of the sentence when capitalised. E.g
 // }
 
 
+// FASTEST 
+//
+
 // function capSentence(text) {
 //   let wordsArray = text.toLowerCase().split(' ')
 //   let capsArray = wordsArray.map(word => {
